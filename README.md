@@ -1,4 +1,4 @@
-![image](https://github.com/Fairpart/Final_project_cs50_data_preprocessing/assets/93822431/2b2eebd9-ae86-47d4-ae25-820f84f51702)# Final_project_cs50_data_preprocessing
+# Final_project_cs50_data_preprocessing
 Writer : R. Khatcha Bangkok,Thailand.
 edx username: khatcha_rue
 
