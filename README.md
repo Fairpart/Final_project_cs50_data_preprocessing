@@ -29,6 +29,10 @@ Functions:
 2. Data for experiment
 In this repository there are two csv files include : Full Data.csv and test_set.csv. Full_data is bigger than test_set.csv I provide these data for someone who Interesting for implementing Thai sentiment analysis or text classification task.
 
+### Input and Output Looklike:
+![Alt Text](https://github.com/Fairpart/Final_project_cs50_data_preprocessing/blob/main/image/Input_data.png)
+![Alt Text](https://github.com/Fairpart/Final_project_cs50_data_preprocessing/blob/main/image/Output_data.png)
+
 ### Design Choices:
   1. Modularity: Functions are designed to perform specific tasks, promoting code readability and maintainability. This allows for easy updates or modifications to individual components without affecting the entire script.
   2. Error Handling: Robust error handling is implemented to gracefully manage unexpected issues, ensuring the script can handle diverse datasets without crashing.
