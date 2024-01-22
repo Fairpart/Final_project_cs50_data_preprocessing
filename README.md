@@ -14,6 +14,7 @@ Export: The original and preprocessed dataset columns are printed, and the prepr
 ![Alt Text](https://github.com/Fairpart/Final_project_cs50_data_preprocessing/raw/main/image/flow_chart.png)
 
 ### Files and Functions
+![Alt Text](https://github.com/Fairpart/Final_project_cs50_data_preprocessing/blob/main/image/flow_chart.png)
 1. process_tweets.py
 This is the main script that orchestrates the entire data processing pipeline. The main() function serves as the entry point, prompting the user to input the location of the data file. It then calls various functions to import, process, and export the data.
 
