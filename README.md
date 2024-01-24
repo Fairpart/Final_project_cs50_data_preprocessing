@@ -1,9 +1,11 @@
 # Final_project_cs50_data_preprocessing
+
+#### Video Demo:  https://www.youtube.com/watch?v=M5wBxUuRrLQ
+
+#### Description
 Writer : R. Khatcha Bangkok,Thailand.
 
 edx username: khatcha_rue
-
-## Video Demo:  https://www.youtube.com/watch?v=M5wBxUuRrLQ
 
 ## Overview
 The purpose of this project is to process Twitter data stored in a CSV file, extract relevant information, and perform preprocessing steps to create a new dataset. The Python script, process_tweets.py, contains functions for importing data, extracting hashtags, editing usernames, handling missing values, integrating the dataset, and exporting the preprocessed data to a new CSV file.
